@@ -1632,3 +1632,26 @@ h3 span
 {
   color: #ffa000;
 }
+
+.text_sub
+{
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.text_sub2
+{
+  font-family: 'SUITE';
+  font-size: 12px;
+  font-weight: 600;
+  color: #bbb;
+}
+
+#fh5co-work .col-padding{
+  padding: 16px !important;
+}
+
+
+#fh5co-work .work_text{
+  height: 160px!important;
+}
