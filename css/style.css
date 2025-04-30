@@ -1648,10 +1648,15 @@ h3 span
 }
 
 #fh5co-work .col-padding{
-  padding: 16px !important;
+  padding: 16px ;
 }
 
 
 #fh5co-work .work_text{
-  height: 160px!important;
+  height: 160px;
+}
+
+#maj
+{
+  margin: 100px 0;
 }
